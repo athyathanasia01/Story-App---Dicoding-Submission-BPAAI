@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dicoding_PrimaryAccent">#2D3F51</color>
+    <color name="dicoding_SecondaryAccent">#739FE6</color>
+    <color name="dicoding_PrimaryAlternateAccent">#513D2D</color>
+    <color name="dicoding_SecondaryAlternateAccent">#A8846F</color>
+
+    <color name="cardview_setting">#ffffff</color>
+    <color name="cardview_setting_text">#2D3F51</color>
+</resources>

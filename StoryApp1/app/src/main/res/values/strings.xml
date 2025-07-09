@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="createdAt">Created at: %s</string>
+    <string name="creator">Creator Name</string>
+    <string name="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla at urna posuere, varius velit nec, rutrum massa. Donec tincidunt lectus vitae ligula auctor, efficitur vulputate orci fringilla. Etiam nec ornare sapien, congue pellentesque diam. Etiam rutrum, est ac mollis rutrum, nibh orci scelerisque sapien, interdum pellentesque nibh nisl at mi. Donec posuere consequat nibh, eu dignissim elit ornare nec. Phasellus pretium, ante nec aliquet laoreet, massa nulla consectetur leo, vitae malesuada erat lorem id magna. Aenean sed imperdiet nulla, eget egestas tellus. Curabitur sagittis nunc quis sollicitudin vestibulum. Donec suscipit risus et vehicula accumsan. Morbi molestie enim eget mi ornare, quis facilisis massa tincidunt. Integer a lacinia dui. Nam interdum elementum laoreet. Quisque nisi ligula, gravida in suscipit eu, feugiat quis lacus. Fusce congue ultrices euismod.</string>
+    <string name="profil_menu">profil_menu</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="description_text">Type story description here</string>
+    <string name="submit">Submit</string>
+    <string name="night_mode">Night Mode</string>
+    <string name="logout">Logout</string>
+    <string name="handle_empty_field">This field can\'t be empty</string>
+    <string name="username">Username User</string>
+    <string name="userId">User ID</string>
+    <string name="attention">Attention!</string>
+    <string name="alert_message">This is an article of how to make a custom alert dialog using ViewModel. From static to dynamic</string>
+    <string name="button_alert">Please, teach me</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dicoding_PrimaryAccent">#2D3F51</color>
+    <color name="dicoding_SecondaryAccent">#6F8EA8</color>
+    <color name="dicoding_PrimaryAlternateAccent">#513D2D</color>
+    <color name="dicoding_SecondaryAlternateAccent">#A8846F</color>
+    
+    <color name="cardview_setting">#6F8EA8</color>
+    <color name="cardview_setting_text">#ffffff</color>
+    
+    <color name="cardview_detail">#EBFFFFFF</color>
+</resources>
